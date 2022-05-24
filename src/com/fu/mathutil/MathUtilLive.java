@@ -18,6 +18,8 @@ public class MathUtilLive {
         
         long factorial = MathUtil.getFactorial(5);
         System.out.println(factorial);
+        System.out.println(factorial);
+        System.out.println(factorial);
         
     }
     
